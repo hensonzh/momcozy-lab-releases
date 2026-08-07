@@ -12,10 +12,10 @@
   "qrCodePath": "assets/momcozy-lab-download-qr.svg",
   "qrCodeUrl": "https://hensonzh.github.io/momcozy-lab-releases/assets/momcozy-lab-download-qr.svg",
   "qrCodeLabel": "Momcozy Lab",
-  "sha256": "ae7db257ccb9babe5457c908955291a80a5858449223a9518ae1e4ba7a284eaa",
+  "sha256": "62e8a9a31a04b0d5211aea224564ac4c3e0ad7e38737b3cd86a86af5297a7122",
   "sizeBytes": 101225681,
-  "generatedAt": "2026-08-07T13:18:20.752Z",
-  "gitCommit": "bccbe64",
+  "generatedAt": "2026-08-07T14:01:10.214Z",
+  "gitCommit": "68bc29b",
   "githubReleaseRepo": "hensonzh/momcozy-lab-releases",
   "githubReleaseTag": "android-v1.0.0-16"
 }
