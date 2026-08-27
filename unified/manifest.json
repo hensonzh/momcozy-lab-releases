@@ -1,0 +1,36 @@
+{
+  "app": "Momcozy Lab",
+  "platform": "android",
+  "flavor": "unified",
+  "runtimeEnvironment": "staging",
+  "mode": "release",
+  "versionName": "1.0.0",
+  "buildNumber": "56",
+  "apkFile": "momcozy-unified-android-staging-1.0.0-56.apk",
+  "apkPath": "releases/momcozy-unified-android-staging-1.0.0-56.apk",
+  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/unified-android-v1.0.0-56/momcozy-unified-android-staging-1.0.0-56.apk",
+  "pageUrl": "https://hensonzh.github.io/momcozy-lab-releases/unified/",
+  "qrCodePath": "assets/momcozy-lab-download-qr.svg",
+  "qrCodeUrl": "https://hensonzh.github.io/momcozy-lab-releases/unified/assets/momcozy-lab-download-qr.svg",
+  "qrCodeLabel": "Momcozy Lab",
+  "sha256": "7c56ef2b779b4604ca9a5b41a5f99f43f6d76fb1a19ab011a084ea6c4cd50b29",
+  "sizeBytes": 176173535,
+  "generatedAt": "2026-08-27T05:08:27.447Z",
+  "gitCommit": "818b1aba8874d66ffcc649408c68d19a08ebafe8",
+  "signingCertSha256": "30eb84e85428658e805e7f0d9853ed3232720601f9f3164067fe1a901f61243e",
+  "githubReleaseRepo": "hensonzh/momcozy-lab-releases",
+  "githubReleaseTag": "unified-android-v1.0.0-56",
+  "provenanceFile": "momcozy-unified-android-staging-1.0.0-56.apk.provenance.json",
+  "sourceServices": {
+    "productBackend": {
+      "commit": "7332a481587c36417f73766e5e77c0d67ebd6e37",
+      "imageDigest": "sha256:280efefbb6d0e670ceaca75fa5aef6416f2aeb8d5bf675304a9823278375c959",
+      "openapiSha256": "0cc7afc39309b7c165e2e60f5a38c08b8cc180524c90a4ef44c4fac9354648d2"
+    },
+    "agentRuntime": {
+      "commit": "5a67cd973bdf18888fa0ccc564bbf547f4722c0b",
+      "imageDigest": "sha256:e32cf09f8d173034448f8a6c9da8063312758a6bc0beb48ac4bb6c102a13e016",
+      "openapiSha256": "b98e8d9941e3b1926028f7dce94ad335457866e94b2dfdd3dd84610591b95ff9"
+    }
+  }
+}
