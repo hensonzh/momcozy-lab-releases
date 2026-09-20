@@ -5,32 +5,32 @@
   "runtimeEnvironment": "test",
   "mode": "release",
   "versionName": "1.0.0",
-  "buildNumber": "57",
-  "apkFile": "momcozy-unified-android-test-1.0.0-57.apk",
-  "apkPath": "releases/momcozy-unified-android-test-1.0.0-57.apk",
-  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/unified-android-v1.0.0-57/momcozy-unified-android-test-1.0.0-57.apk",
+  "buildNumber": "58",
+  "apkFile": "momcozy-unified-android-test-1.0.0-58.apk",
+  "apkPath": "releases/momcozy-unified-android-test-1.0.0-58.apk",
+  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/unified-android-v1.0.0-58/momcozy-unified-android-test-1.0.0-58.apk",
   "pageUrl": "https://hensonzh.github.io/momcozy-lab-releases/unified/",
   "qrCodePath": "assets/momcozy-lab-download-qr.svg",
   "qrCodeUrl": "https://hensonzh.github.io/momcozy-lab-releases/unified/assets/momcozy-lab-download-qr.svg",
   "qrCodeLabel": "Momcozy Lab",
-  "sha256": "76c4580bc18c161e8fd2a601656bf6ab53bff3451ae803664ae00efca3de9ae9",
-  "sizeBytes": 176173536,
-  "generatedAt": "2026-09-04T11:00:47.971Z",
-  "gitCommit": "0cbb0b079e9fae63dd1fa0517b8c8025f729144e",
+  "sha256": "ea638f7d6b01a454aee1d46610b979a146cf8fba9a361f9c4e2adf38044df4cc",
+  "sizeBytes": 225355203,
+  "generatedAt": "2026-09-20T23:54:14.964Z",
+  "gitCommit": "d6c7e98c523e043c0382618ac9a80eefd3feae2f",
   "signingCertSha256": "30eb84e85428658e805e7f0d9853ed3232720601f9f3164067fe1a901f61243e",
   "githubReleaseRepo": "hensonzh/momcozy-lab-releases",
-  "githubReleaseTag": "unified-android-v1.0.0-57",
-  "provenanceFile": "momcozy-unified-android-test-1.0.0-57.apk.provenance.json",
+  "githubReleaseTag": "unified-android-v1.0.0-58",
+  "provenanceFile": "momcozy-unified-android-test-1.0.0-58.apk.provenance.json",
   "sourceServices": {
     "productBackend": {
-      "commit": "2395ef40253ecfadb6dbca9e5b43ace9f99764fb",
-      "imageDigest": "sha256:100397745ad01658cc103d74b8d33b650a2adee1a5b8ff78e1476513a5d1452f",
-      "openapiSha256": "0cc7afc39309b7c165e2e60f5a38c08b8cc180524c90a4ef44c4fac9354648d2"
+      "commit": "8e4e7d1f7079e090b906e4b95c339522cc63a5fa",
+      "imageDigest": "sha256:54adea88a21f8a8e86f65057eb97f7fab29527a93dc3105440c5482d1dbb1615",
+      "openapiSha256": "a3641bdbe0ab5da31ee75aee34e42c00bf717c2e62b46ca1bf264b56efbfa6ab"
     },
     "agentRuntime": {
-      "commit": "0cd8a4a8c4aec8b3dc4640c065da64769de867e9",
-      "imageDigest": "sha256:f61442d63465327843ff60164208f4060559a5d96d5143bbb5fe71dcc02c6c31",
-      "openapiSha256": "b98e8d9941e3b1926028f7dce94ad335457866e94b2dfdd3dd84610591b95ff9"
+      "commit": "b2e563db0ccbc03e3ac926ce7c50249ae517b758",
+      "imageDigest": "sha256:3ca47d7b813f6d3e13d253088546b2c6d54ad38252c4b719b6031ea1f49303f3",
+      "openapiSha256": "23d8c9b249056a9d3ad9d8fa8408c3ebe5ba2dba36a2929de63f106ea4a1a21d"
     }
   }
 }
