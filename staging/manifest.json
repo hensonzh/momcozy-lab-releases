@@ -7,31 +7,31 @@
   "runtimeEnvironment": "staging",
   "mode": "release",
   "versionName": "1.0.0",
-  "buildNumber": "61",
-  "apkFile": "momcozy-staging-android-1.0.0-61.apk",
-  "apkPath": "releases/momcozy-staging-android-1.0.0-61.apk",
-  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/staging-android-v1.0.0-61/momcozy-staging-android-1.0.0-61.apk",
+  "buildNumber": "62",
+  "apkFile": "momcozy-staging-android-1.0.0-62.apk",
+  "apkPath": "releases/momcozy-staging-android-1.0.0-62.apk",
+  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/staging-android-v1.0.0-62/momcozy-staging-android-1.0.0-62.apk",
   "pageUrl": "https://hensonzh.github.io/momcozy-lab-releases/staging/",
   "qrCodePath": "assets/momcozy-lab-download-qr.svg",
   "qrCodeUrl": "https://hensonzh.github.io/momcozy-lab-releases/staging/assets/momcozy-lab-download-qr.svg",
   "qrCodeLabel": "momcozy AI",
-  "sha256": "f7c842c939715e3815fcf99b999ac5613039ce85758548a414fb0fac07c47942",
+  "sha256": "b0b08dda27f68dd66680e3b2ebfd3bd05514cf5d07aa5ecdc42d598dacb8f5f7",
   "sizeBytes": 219797099,
-  "generatedAt": "2026-09-28T07:38:58.277Z",
-  "gitCommit": "90b381fa70814b0821116a2f36d719ee4d369231",
+  "generatedAt": "2026-09-28T09:10:19.871Z",
+  "gitCommit": "653fa7cd08f7a2f5f32da73c1f89e35dfdf6aa9d",
   "signingCertSha256": "30eb84e85428658e805e7f0d9853ed3232720601f9f3164067fe1a901f61243e",
   "githubReleaseRepo": "hensonzh/momcozy-lab-releases",
-  "githubReleaseTag": "staging-android-v1.0.0-61",
-  "provenanceFile": "momcozy-staging-android-1.0.0-61.apk.provenance.json",
+  "githubReleaseTag": "staging-android-v1.0.0-62",
+  "provenanceFile": "momcozy-staging-android-1.0.0-62.apk.provenance.json",
   "sourceServices": {
     "productBackend": {
-      "commit": "59b35dd6edca9131b0349d27d0a1c96c6c207f12",
-      "imageDigest": "sha256:7d4ccbd6f443abce4cc0ee50156c70a1e64c1017437cc16ee9ab565c42e40a19",
-      "openapiSha256": "e43bacacdbb64f9003f655ba6415fe28e76e7b22470195471e674a33f294f79b"
+      "commit": "e4ceda50c7a0b1e1d46312fa50da2de0cbc15e63",
+      "imageDigest": "sha256:6f82141e289e88d6da6df4a590f55b5409fab4ca637198bc13a4dcb36e95b141",
+      "openapiSha256": "f9e8b91280ba2b6fb34224e6a5e7aadd04eaf7f1b97b704cf7d34909ae6d5d72"
     },
     "agentRuntime": {
-      "commit": "ef2408ed2b4379c02ce215ec04c1f37099d3fb94",
-      "imageDigest": "sha256:071c8765435b7a572f0f44847c186b4b041a863e0fe2126ee13d4a48e583ac31",
+      "commit": "ca8b20a9f0bf4eb79d6af93452acf27a1e74e2c3",
+      "imageDigest": "sha256:90109e8126193f7752a6c8d61c19d2e5c1f3bc435e816c18ca90d60281230f09",
       "openapiSha256": "e99aeb4273f472f1b2d4d36ac22affbe55db5f325b2d22dca224f735ccd546dc"
     }
   }
