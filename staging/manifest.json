@@ -7,31 +7,31 @@
   "runtimeEnvironment": "staging",
   "mode": "release",
   "versionName": "1.0.0",
-  "buildNumber": "62",
-  "apkFile": "momcozy-staging-android-1.0.0-62.apk",
-  "apkPath": "releases/momcozy-staging-android-1.0.0-62.apk",
-  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/staging-android-v1.0.0-62/momcozy-staging-android-1.0.0-62.apk",
+  "buildNumber": "63",
+  "apkFile": "momcozy-staging-android-1.0.0-63.apk",
+  "apkPath": "releases/momcozy-staging-android-1.0.0-63.apk",
+  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/staging-android-v1.0.0-63/momcozy-staging-android-1.0.0-63.apk",
   "pageUrl": "https://hensonzh.github.io/momcozy-lab-releases/staging/",
   "qrCodePath": "assets/momcozy-lab-download-qr.svg",
   "qrCodeUrl": "https://hensonzh.github.io/momcozy-lab-releases/staging/assets/momcozy-lab-download-qr.svg",
   "qrCodeLabel": "momcozy AI",
-  "sha256": "b0b08dda27f68dd66680e3b2ebfd3bd05514cf5d07aa5ecdc42d598dacb8f5f7",
+  "sha256": "d5d1efc448cbf2a149084fd8eea91faca39cd5db2d20afa036ceef9ad2803a58",
   "sizeBytes": 219797099,
-  "generatedAt": "2026-09-28T09:10:19.871Z",
-  "gitCommit": "653fa7cd08f7a2f5f32da73c1f89e35dfdf6aa9d",
+  "generatedAt": "2026-09-28T15:21:07.111Z",
+  "gitCommit": "3c559d4ce76e95200af4ebf7d5c97be758feced4",
   "signingCertSha256": "30eb84e85428658e805e7f0d9853ed3232720601f9f3164067fe1a901f61243e",
   "githubReleaseRepo": "hensonzh/momcozy-lab-releases",
-  "githubReleaseTag": "staging-android-v1.0.0-62",
-  "provenanceFile": "momcozy-staging-android-1.0.0-62.apk.provenance.json",
+  "githubReleaseTag": "staging-android-v1.0.0-63",
+  "provenanceFile": "momcozy-staging-android-1.0.0-63.apk.provenance.json",
   "sourceServices": {
     "productBackend": {
-      "commit": "e4ceda50c7a0b1e1d46312fa50da2de0cbc15e63",
-      "imageDigest": "sha256:6f82141e289e88d6da6df4a590f55b5409fab4ca637198bc13a4dcb36e95b141",
-      "openapiSha256": "f9e8b91280ba2b6fb34224e6a5e7aadd04eaf7f1b97b704cf7d34909ae6d5d72"
+      "commit": "a242ee1b6eb46ecd9ecdfbcc95bfb23346be422e",
+      "imageDigest": "sha256:7553b53be8d26f78e8af5f6a4db451a1cf49bacd8c4f172f7c70296a7e84c916",
+      "openapiSha256": "4aae106cbc612b15cbd7f3de04bd9cb510cf5200c9661171534ad20d3b9963d1"
     },
     "agentRuntime": {
-      "commit": "ca8b20a9f0bf4eb79d6af93452acf27a1e74e2c3",
-      "imageDigest": "sha256:90109e8126193f7752a6c8d61c19d2e5c1f3bc435e816c18ca90d60281230f09",
+      "commit": "6b373d6af6bb0c8210274be37beecfd6a14594a6",
+      "imageDigest": "sha256:ef0d1164cbcbac1ade474343909387ffb9d73375a3410ad41b4a7403b1ed5cd0",
       "openapiSha256": "e99aeb4273f472f1b2d4d36ac22affbe55db5f325b2d22dca224f735ccd546dc"
     }
   }
