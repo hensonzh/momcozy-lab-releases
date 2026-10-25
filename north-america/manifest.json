@@ -1,14 +1,14 @@
 {
   "releaseTarget": "north-america-staging",
   "version": "1.0.0",
-  "build": 79,
+  "build": 80,
   "flavor": "play",
   "mode": "debug",
   "signing": "Android Debug",
-  "sourceCommit": "217f7ac0a9b2fb9ee511a2c37af052259f4e6cb1",
+  "sourceCommit": "c39e628b4368daae925ceb7ef3682ee55539e597",
   "packageName": "momcozy.com.mai",
-  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/north-america-test-android-v1.0.0-79-217f7ac0/momcozy-north-america-test-1.0.0-79-217f7ac0.apk",
+  "apkUrl": "https://github.com/hensonzh/momcozy-lab-releases/releases/download/north-america-test-android-v1.0.0-80-c39e628b/momcozy-north-america-test-1.0.0-80-c39e628b.apk",
   "pageUrl": "https://hensonzh.github.io/momcozy-lab-releases/north-america/",
   "qrUrl": "https://hensonzh.github.io/momcozy-lab-releases/north-america/assets/download-qr.svg",
-  "sha256": "702782875fe5b02efeb4d9026ac48d63658530cf41c1ed9a436a65ddb313dc36"
+  "sha256": "9dfe278070f30d534a38b5a53b080b053f6d384fe00445bd4c74ea43fd2a3747"
 }
